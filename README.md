@@ -1,4 +1,4 @@
-# Predicting-Hiring-Decisions
+# Predicting Hiring Decisions Using Random Forest Classifier
 
 
 ## About Dataset
