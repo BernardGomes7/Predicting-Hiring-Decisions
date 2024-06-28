@@ -1,4 +1,4 @@
-# Predicting Hiring Decisions Using Random Forest Classifier
+# Predicting Hiring Decisions Using Random Forest Classifier and XGBost Classifier
 
 
 ## About Dataset
